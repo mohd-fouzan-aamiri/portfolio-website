@@ -50,8 +50,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: "/your-repo-name",
-  assetPrefix: "/your-repo-name/",
+  basePath: "/portfolio-website",
+  assetPrefix: "/portfolio-website/",
 };
 
 export default nextConfig
